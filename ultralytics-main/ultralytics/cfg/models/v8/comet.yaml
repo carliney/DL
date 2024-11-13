@@ -1,0 +1,10 @@
+train: /share/home/zju_jiangyy/comet/ultralytics-main/ultralytics-main/dataset/train
+val: /share/home/zju_jiangyy/comet/ultralytics-main/ultralytics-main/dataset/val
+
+
+nc: 7
+
+
+names: ["comet-T", "comet","steak","w","ww","head","impurity"]
+
+

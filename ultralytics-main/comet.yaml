@@ -1,0 +1,18 @@
+train: /share/home/zju_jiangyy/comet/ultralytics-main/ultralytics-main/dataset/train
+val: /share/home/zju_jiangyy/comet/ultralytics-main/ultralytics-main/dataset/val
+
+# number of classes
+nc: 8
+
+# class names
+names:
+  0: comet-T
+  1: comet
+  2: steak
+  3: w
+  4: ww
+  5: head
+  6: impurity
+  7: Hedgehog
+
+
