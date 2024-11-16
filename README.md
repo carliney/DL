@@ -1,0 +1,1 @@
+This is an automated comet assay image analysis method capable of automatically identifying comet cells within images, segmenting their heads and tails, and outputting TailDNA%. Additionally, it can count the recognized cells and offer a variety of statistical methods for analysis.
